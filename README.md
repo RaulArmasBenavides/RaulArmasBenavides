@@ -12,7 +12,7 @@ Here I give you links where you can find me on internet:
 
 My Linkedin profile : https://www.linkedin.com/in/raul-armas/
 My e-mail : raularmasbx@gmail.com
-You can send me a message in whatsapp if you want: +51985395111
+
 <!---
 RaulArmasBenavides/RaulArmasBenavides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
