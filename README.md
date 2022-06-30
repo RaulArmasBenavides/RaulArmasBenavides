@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @RaulArmasBenavides , I am 24 years old and I am from Perú.
 - I'm software engineer and I work currently in BW2 Technologies AG.
-- I have experience in these languages : Visual Basic, VB.NET, C#, Java 6 and Javascript.
+- I have experience in these languages : Visual Basic, VB.NET, C#, Java 6 , Javascript and Typescript ( Angular) .
 - I have experience using these technologies : Web services development ( WCF ) in .NET  framework.
-- 👀 I’m interested in learning new languages and new frameworks (Angular and React)  
+- 👀 I’m learning Android and Python.
 
 
 - 💞️ I’m looking to collaborate on differents solutions
-- 📫 How to reach me :
 
 Here I give you links where you can find me on internet: 
 
