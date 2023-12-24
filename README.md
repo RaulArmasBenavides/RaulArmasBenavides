@@ -2,7 +2,7 @@
 - I'm software engineer and I work currently in Indra.
 - I have experience in these languages : Visual Basic, VB.NET, C#, Java 6 , Javascript(Jquery ) and Typescript (Angular,React ,Vue) .
 - I have experience using these technologies :Angular ,React ,Vue Web services development ( WCF ,Web API) in .NET  framework and Net Core.
-- 👀 I’m learning Android,Python.
+
 I’m looking to collaborate on differents solutions
 
 Here I give you links where you can find me on internet: 
