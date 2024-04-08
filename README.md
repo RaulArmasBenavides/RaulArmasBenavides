@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaulArmasBenavides
 - I'm software engineer and I work currently in Intelica Consulting.
-
+<div style="background-color: #F5F5F5; color: black; padding: 10px;">
 ### Technical stack
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br/>
 <br/>
-
+</div>
 ![RaulArmasBenavides's github stats](https://github-readme-stats.vercel.app/api?username=RaulArmasBenavides&show_icons=true&theme=highcontrast&include_all_commits=true) 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArmasBenavides&theme=highcontrast&layout=compact) 
