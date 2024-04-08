@@ -2,7 +2,7 @@
 - I'm software engineer and I work currently in Intelica Consulting.
 ### Technical stack
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-<code><img height="50" src="https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg"></code>
+<code><img height="50" src="[https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg](https://raw.githubusercontent.com/dotnet/brand/29878855347e055ff15675471f7043fda3e92cea/logo/dotnet-logo.svg)"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
