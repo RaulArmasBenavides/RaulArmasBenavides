@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaulArmasBenavides
-- I'm software engineer and I work currently in Indra.
+- I'm software engineer and I work currently in Intelica Consulting.
 - I have experience in these languages : Visual Basic, VB.NET, C#, Java 6 , Javascript(Jquery ) and Typescript (Angular,React ,Vue) .
 - I have experience using these technologies :Angular ,React ,Vue Web services development ( WCF ,Web API) in .NET  framework and Net Core.
 
@@ -14,4 +14,7 @@ My e-mail : raularmasbx@gmail.com
 RaulArmasBenavides/RaulArmasBenavides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-| ![RaulArmasBenavides's github stats](https://github-readme-stats.vercel.app/api?username=RaulArmasBenavides&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArmasBenavides&theme=radical&layout=compact) |
+
+![RaulArmasBenavides's github stats](https://github-readme-stats.vercel.app/api?username=RaulArmasBenavides&show_icons=true&theme=radical&include_all_commits=true) 
+
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArmasBenavides&theme=radical&layout=compact) 
