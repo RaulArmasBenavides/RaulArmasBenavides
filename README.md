@@ -41,7 +41,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/vercel-ar21"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/vercel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
  
 ## How to contact me 📫
