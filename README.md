@@ -41,10 +41,10 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/vercel-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
  
-## How to contact me 📫
+# How to contact me 📫
  <a mailto="raularmasbx@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/raul-armas/" target="_blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://wa.me/+51985395111" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
