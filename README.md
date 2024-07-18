@@ -13,7 +13,9 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
- 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+
 # Databases 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
@@ -21,8 +23,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 
 # Microservices 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
