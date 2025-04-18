@@ -30,11 +30,12 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/dotnet/brand/29878855347e055ff15675471f7043fda3e92cea/logo/dotnet-logo.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21.svg"></code>
 
 
 # More stuff
